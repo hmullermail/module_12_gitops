@@ -1,2 +1,1 @@
-# module_12_gitops
-# module_12_gitops
+# Exercitando o Módulo GitOps - Henrique Müller, 2022
