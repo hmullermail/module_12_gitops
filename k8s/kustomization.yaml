@@ -8,4 +8,4 @@ resources:
 images:
 - name: pyserver
   newName: hmullermail/module_12_gitops
-  newTag: somenewtag
+  newTag: 8b5fcf8d212d7383e4670ff8e54b93bbd8155e42
